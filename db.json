@@ -1,14 +1,2 @@
-
-{    
-    
-   "message":"Please check violation",
-    "responseData":null,
-    "status":"fail",
-    "timeStamp":"2018-06-25 04:10:03",
-    "violations":{
-        "code":402,
-        "message":"didmessage - are mandatory",
-        "uimessage":"uimessage - are mandatory"
-    }
-    
-}
+{"message":"Please check violation","responseData":null,"status":"fail","timeStamp":"2018-06-25 04:10:03","violations":{
+"code":402,"message":"didmessage - are mandatory","uimessage":"uimessage - are mandatory"}}
