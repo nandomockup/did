@@ -1,11 +1,31 @@
 {
-	"message":"Please check violation",
-	"responseData":null,
-	"status":"fail",
-	"timeStamp":"2018-06-25 04:10:03",
-	"violations":{
-		"code":402,
-		"message":"didmessage - are mandatory",
-		"uimessage":"uimessage - are mandatory"
-	}
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
